@@ -37,9 +37,15 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 3. Exploratory data analysis was performed to identify trends in three-point shooting. 📄 [View the EDA Report](reports/3_EDA.pdf)
 4. Visualizations were created in Tableau to highlight key insights.
 5. Results were compiled into an EDA report.
-6. Datafolio were created as a project summary.
-7. Dashboard were created and published in Tableau.
-8. Final report were redacted with every insight and coclusion of the project.
+6. Datafolio was created as a project summary.
+7. Dashboard was created and published in Tableau.
+8. The final report was compiled with all insights and conclusions.
+
+## Project Reports
+
+- 📄 [Project Description & Scope](reports/1_Description_Scope.pdf) 
+- 📄 [Data Curation Report](reports/2_Data_Curation.pdf)  
+- 📄 [Exploratory Data Analysis (EDA) Report](reports/3_EDA.pdf)
 
 ## Key Insights
 
@@ -60,3 +66,4 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
   <img src="images/EDA_charts/5_3PRate_by_positions.png" width="45%">
   <img src="images/EDA_charts/6_PF_C_evolution.png" width="45%">
   </p>
+  *Figure: Three-point rate evolution by positions and PF/C comparison.*
