@@ -37,6 +37,9 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 ## Key Insights
 
 - The rate of three-point attempts has increased dramatically since the mid-2010s.
+  <p align="center">
+  <img src="images/EDA_charts/1_3PRate_vs_Efficiency.png" width="700">
+  </p>
 - Despite the increase in attempts, league-wide three-point efficiency has remained relatively stable.
 - The number of high-volume three-point shooters has grown significantly in recent seasons.
 - Power forwards and centers have increasingly incorporated three-point shooting into their games.
