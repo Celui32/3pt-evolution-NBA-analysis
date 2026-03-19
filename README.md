@@ -26,8 +26,8 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 ## Project Workflow
 
 1. Raw NBA statistics were collected and stored in a database.
-2. SQL queries were used to clean and prepare the data. 📄 [View the EDA Report](reports/2 - Data_Curation.pdf)
-3. Exploratory data analysis was performed to identify trends in three-point shooting. 📄 [View the EDA Report](reports/3-EDA.pdf)
+2. SQL queries were used to clean and prepare the data. 📄 [View the Data Curation Report](reports/2_Data_Curation.pdf)
+3. Exploratory data analysis was performed to identify trends in three-point shooting. 📄 [View the EDA Report](reports/3_EDA.pdf)
 4. Visualizations were created in Tableau to highlight key insights.
 5. Results were compiled into an EDA report.
 6. Datafolio were created as a project summary.
