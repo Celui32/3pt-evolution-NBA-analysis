@@ -1,6 +1,7 @@
   <p align="center">
   <img src="https://cdn.nba.com/manage/2021/10/3point-lead-graphic.png" width="700">
   </p>
+  
 # NBA 3-Point Evolution Analysis
 
 This project explores how the use of the three-point shot in the NBA has evolved since its introduction during the season 1979-80. 
