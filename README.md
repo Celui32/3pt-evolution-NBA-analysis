@@ -33,8 +33,10 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 
 ## Tools Used
 
+- **Word** – Written Reports ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=Microsoft-Word&logoColor=white)
+- **Excel** – Data preparation ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 - **SQL** – Data cleaning and analysis ![SQL](https://img.shields.io/badge/SQL-FCC624?style=flat&logo=MySQL&logoColor=white)
-- **Tableau** – Data visualization ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+- **Tableau** – Data visualization ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) [View Dashboard](https://public.tableau.com/views/NBA_3P_Evolution/3PEvolution?:language=en-US&:display_count=n&:showVizHome=no)
 - **GitHub** – Project documentation and version control ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## Project Workflow
@@ -87,7 +89,7 @@ The analysis focuses on identifying key trends in shooting volume, efficiency, a
 
 You can view the full datafolio here:  
 👉 [Download Datafolio](images/Datafolio/three_point_evolution.pdf)
-![Poster Preview](images/Datafolio/three_point_evolution.png)
+[![Datafolio Preview](images/Datafolio/three_point_evolution.png)](images/Datafolio/three_point_evolution.pdf)
 
 ## Interactive Dashboard
 
